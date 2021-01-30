@@ -5,4 +5,4 @@ All found security bugs described in the `security-report.md` whitepaper have be
 The `evil-script.js` contains the evil code, which exploits the F-Secure KEY browser extension and tries to retrieve user's stored usernames and passwords. 
 
 The appropriate security advisory has been released by the vendor as well:  
-https://www.f-secure.com/en/web/labs_global/fsc-2017-2
+https://www.f-secure.com/en/business/support-and-downloads/security-advisories/fsc-2017-2
